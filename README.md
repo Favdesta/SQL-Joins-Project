@@ -1,5 +1,3 @@
-# SQL-Joins-Project
-
 # SQL Joins Project
 
 ## Project Overview
